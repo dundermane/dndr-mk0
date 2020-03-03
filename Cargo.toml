@@ -1,0 +1,14 @@
+[package]
+name = "dndr-rust-inversek"
+version = "0.1.0"
+authors = ["mane"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+quaternion = "0.4.1"
+serde = "1.0.104"
+ron = "0.5.1"
+cgmath = "0.17.0"
+nalgebra = "0.19.0"
